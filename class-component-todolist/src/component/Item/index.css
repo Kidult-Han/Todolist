@@ -1,0 +1,10 @@
+.itemclass{
+    margin-left: 0px;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    float: left;
+}
+.labelclass{
+    float: left;
+    cursor: pointer;
+}

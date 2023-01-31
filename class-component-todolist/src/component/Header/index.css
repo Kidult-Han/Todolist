@@ -1,0 +1,15 @@
+.headerinput{
+background-color: rgb(251, 242, 242);
+width: 200px;
+height: 25px;
+font-size: 10px;
+border: 1px solid rgb(36, 36, 35);
+border-radius: 5px;
+padding: 4px 7px;
+float: left;
+}
+.headerbutton{
+    padding: 0px 10px;
+    float: left;
+    margin-left: 20px;
+}
